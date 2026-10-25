@@ -7,17 +7,19 @@ Author:
 
 ## Project Structure
 
+```text
 HW5_RegExp/
-├── data/                       # data for the tasks
-├── fastqs/                     # source fastq files for renaming
+├── data/                    # data for the tasks
+├── fastqs/                  # source fastq files for renaming
 │   ├── Mix-G1_S21_L001_R1_001.fastq
 │   ├── Mix-G1_S21_L001_R2_001.fastq
 │   ├── Mix-G2_S22_L001_R1_001.fastq
 │   └── Mix-G2_S22_L001_R2_001.fastq
-├── img/                        # images for the notebook
-├── HW5_RegExp_Tasks.ipynb      # notebook with task solutions and usage examples
-├── main.py                     # module with the functions
-└── README.md                   # description
+├── img/                     # images for the notebook
+├── HW5_RegExp_Tasks.ipynb   # notebook with task solutions and usage examples
+├── main.py                  # module with the functions
+└── README.md                # description
+```
 
 ---
 
